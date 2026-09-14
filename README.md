@@ -248,5 +248,5 @@ docker run \
 ngrok을 이용하여 로컬의 8080 포트를 외부에서 접근할 수 있도록 구성했습니다.
 
 ```bash
-ng
+https://vaguely-awning-lagging.ngrok-free.dev
 ```
